@@ -18,29 +18,33 @@
 <br> ✅ 5 dias por semana
 </p>
 
-# Tecnologias utilizadas
-## Back end
-- Phyton
-- SQL
-- GCP (Google Cloud Plataform)
+## Tecnologias e Ferramentas utilizadas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,linkedin,vscode,py" />
+  </a>
+</p>
+
 ## IDE
-- Google Colab (Jupyter Notebook)
-- Looker Studio (Google Data Studio)
-- BigQuery Studio
+<p align="center">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white "/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/>
+</p>
 
-# :art: Conteúdo
-<p align="left">O layout da aplicação é responsivo e se adapta em vários dispositivos</p>
-:iphone: Mobile
-:computer: Desktop
+<!--
+  # :art: Conteúdo
+  <p align="left">O layout da aplicação é responsivo e se adapta em vários dispositivos</p>
+  :iphone: Mobile
+  :computer: Desktop  
+  ## Layout mobile :iphone:
+  ![Mobile 1](https://github.com/ticoabc/tcchtml5/blob/main/frontMobile.JPG)  
+  ## Layout web :computer:
+  ![Web 1](https://github.com/ticoabc/tcchtml5/blob/main/frontweb.JPG)
+-->
 
-
-## Layout mobile :iphone:
-![Mobile 1](https://github.com/ticoabc/tcchtml5/blob/main/frontMobile.JPG)
-
-## Layout web :computer:
-![Web 1](https://github.com/ticoabc/tcchtml5/blob/main/frontweb.JPG)
-
-# 🛠 Ferramentas
+<!--
   <p align="left">
   <p align="left"> 
   <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer">
@@ -56,9 +60,8 @@
   <a href="https://www.w3schools.com/vscode/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="mysql" width="40" height="40"/></a>
   </p>
-
+-->
 # Autor🚀
-
 
 Feito por Tiago de Freitas 👋🏽 Entre em contato!
 
